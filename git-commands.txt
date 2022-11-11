@@ -1,7 +1,11 @@
-- git init
-- git remote add origin git@github.com:maurence/hello-world-js.git
-- git status
+- git init - to initialize the folder
+- git remote add origin git@github.com:maurence/hello-world-js.git - point where the repo is
+- git status - check the status
+
 - git add .
 - git commit -m "Initialize"
+
 - git log
 - git push origin master
+
+- add something
