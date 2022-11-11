@@ -1,0 +1,5 @@
+- git init
+- git remote add origin git@github.com:maurence/hello-world-js.git
+- git status
+- git add .
+- git commit -m "Initialize"
